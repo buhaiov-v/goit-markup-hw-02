@@ -50,7 +50,7 @@ button {cursor: pointer;}
     line-height: 150%;
     letter-spacing: 0.02em;
 }
-.contacts-link:{
+.contacts-link {
     color: #434455
 }
 .contacts-link:hover {
@@ -60,7 +60,10 @@ button {cursor: pointer;}
     color: #404bbf
 }
 
-h1 {
+.hero {
+    background-color: #2e2f42;
+}
+.hero-title {
     font-weight: 700;
     font-size: 56px;
     line-height: 107%;
