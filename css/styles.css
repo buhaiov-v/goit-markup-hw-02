@@ -17,13 +17,14 @@ button {cursor: pointer;}
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.16667;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
+    color: #4d5ae5;
 }
 
 .logo-part {
-    color: #4D5AE5;
+    color: #2e2f42;
 }
 
 .nav-list{
@@ -31,12 +32,15 @@ button {cursor: pointer;}
     font-size: 16px;
     line-height: 150%;
     letter-spacing: 0.02em;
-    color: #2E2F42;
+    color: #2e2f42;
+}
+.nav-link {
+    color: #2e2f42;
 }
 .nav-link:hover {
     color: #404BBF;
 }
-.nav-link:active {
+.nav-link:focus {
     color: #404BBF;
 }
 
@@ -45,9 +49,13 @@ button {cursor: pointer;}
     font-size: 16px;
     line-height: 150%;
     letter-spacing: 0.02em;
+    color:#434455;
 }
 .contacts-link:hover {
     color: #404BBF
+}
+.contacts-link:focus {
+    color: #404bbf
 }
 
 h1 {
