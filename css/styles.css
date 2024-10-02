@@ -92,7 +92,7 @@ button {cursor: pointer;}
 
 /* features 2 */
 
-.features-list h3 {
+.features-list-title {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -101,7 +101,7 @@ button {cursor: pointer;}
 
 }
 
-.features-list p {
+ .features-list-item {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
@@ -125,7 +125,7 @@ color: #2e2f42;
 background-color: #FFFFFF;
 }
 
-.our-team-list h3 {
+.our-team-list-title {
 font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
@@ -133,7 +133,7 @@ letter-spacing: 0.02em;
 color: #2e2f42;
 }
 
-.our-team-list p {
+.our-team-list-item {
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
@@ -151,7 +151,7 @@ text-transform: capitalize;
 color: #2e2f42;
 }
 
-.our-portfolio-list h3 {
+.our-portfolio-list-title {
 font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
@@ -159,7 +159,7 @@ letter-spacing: 0.02em;
 color: #2e2f42;
 }
 
-.our-portfolio-list p {
+.our-portfolio-list-item {
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
@@ -175,7 +175,7 @@ background-color: #2e2f42;
     color: #f4f4fd;
 }
 
-.footer p {
+.footer-item {
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #F4F4FD;
